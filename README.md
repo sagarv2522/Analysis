@@ -13,6 +13,11 @@ Waze’s data team is working on the churn project. The following tasks are need
 * Interpret model results and summarize findings for cross-departmental stakeholders within Waze
 
 **The goal** is to build a binomial logistic regression model and evaluate the model's performance.
-![pngimg com - waze_PNG42](https://github.com/sagarv2522/waze-logistic-regression/assets/109810639/96b8e67c-0200-4b48-8af2-d61c9664a244)
+
+# Some of Image 🖼️
+
+![image](https://github.com/sagarv2522/waze-logistic-regression/blob/main/image/Feature%20Important.png)
+
+![pngimg com - waze_PNG42](https://github.com/sagarv2522/waze-logistic-regression/blob/main/image/Confusion%20matrix%20waze.png)
 
 🔗🔗 For more view the Notebook 📓
