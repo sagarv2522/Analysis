@@ -14,7 +14,7 @@ Waze’s data team is working on the churn project. The following tasks are need
 
 **The goal** is to build a binomial logistic regression model and evaluate the model's performance.
 
-# Some of Image 🖼️
+# Feature Importance 🖼️
 
 ![image](https://github.com/sagarv2522/waze-logistic-regression/blob/main/image/Feature%20Important.png)
 
